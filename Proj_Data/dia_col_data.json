@@ -1,0 +1,15 @@
+{
+    "columns": [
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "predict": {
+        "0": "No",
+        "1": "Yes"
+    }
+}
